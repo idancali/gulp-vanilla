@@ -1,0 +1,2 @@
+# gulp-vanilla
+Gulp Vanilla
